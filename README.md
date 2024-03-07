@@ -27,6 +27,10 @@ Forkify is a recipe search and saving app, built with HTML5, CSS3, and JavaScrip
 - Parcel
 - NPM
 
+<h2 id="screenshots">Project Screenshot</h2>
+
+<p>Feel free to check out the screenshot of my website for a sneak peek into its captivating user interface.</p>
+
 <p align="center">
   <img alt="Forkify App" src="./src/img/forkify-screenshot.png" width="100%" />
 </p>
